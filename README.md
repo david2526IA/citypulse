@@ -61,4 +61,4 @@ Weather and air-quality data are requested from [Open-Meteo](https://open-meteo.
 
 ## License
 
-MIT © 2026 David Falcon
+MIT © 2026 David
